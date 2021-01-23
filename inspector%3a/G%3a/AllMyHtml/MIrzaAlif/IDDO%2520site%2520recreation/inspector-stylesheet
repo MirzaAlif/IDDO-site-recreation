@@ -1,0 +1,7 @@
+section.videosection1 {
+    background-color: gray;
+}.videosection1 {
+    height: 700px;
+    width: 100%;
+    background-color: gray;
+}
